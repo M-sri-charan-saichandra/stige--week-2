@@ -1,1 +1,1 @@
-<?php header('location: /clone.html') ?>
+<?php include_once("clone.html") ?>
